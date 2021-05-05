@@ -1,4 +1,1 @@
-Free thinker/Writer | Philosophy, CS, Language, & Jest.
-
-
-This is where ill host my code and other things ill need.
+This is where I host my code and other things ill need.
